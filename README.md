@@ -4,6 +4,8 @@
 
 This project is a chat app that allows its users to communicate in real-time through the use of WebSockets.
 
+![Snappy](https://github.com/ZahariaAdrian/snappy-chat-fe/assets/128701373/81be3861-39e8-4848-833a-f17617c27468)
+
 The main features implemented are:
 
 - Login/Register
