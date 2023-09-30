@@ -21,7 +21,7 @@ https://github.com/ZahariaAdrian/snappy-chat-be
 
 ## 1.Clone the repository
 
-git clone https://github.com/ZahariaAdrian/mern-blog-fe
+git clone https://github.com/ZahariaAdrian/snappy-chat-fe
 
 ## 2.Install dependencies
 
