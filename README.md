@@ -15,7 +15,7 @@ The main features implemented are:
 
 # Getting Started
 
-The app will not work properly untill the server repository is not also initialised.
+The app will not work properly untill the server repository is also initialised.
 
 https://github.com/ZahariaAdrian/snappy-chat-be
 
